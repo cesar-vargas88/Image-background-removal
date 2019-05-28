@@ -1,4 +1,4 @@
 ﻿  Background removal.cpp
-c:\users\varga\source\repos\background removal\background removal\background removal.cpp(61): warning C4305: 'initializing': truncation from 'double' to 'float'
-c:\users\varga\source\repos\background removal\background removal\background removal.cpp(85): warning C4305: '+=': truncation from 'double' to 'float'
-  Background removal.vcxproj -> C:\Users\varga\source\repos\Background removal\x64\Debug\Background removal.exe
+c:\users\varga\source\repos\image-background-removal\background removal\background removal.cpp(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\varga\source\repos\image-background-removal\background removal\background removal.cpp(110): warning C4305: '+=': truncation from 'double' to 'float'
+  Background removal.vcxproj -> C:\Users\varga\source\repos\Image-background-removal\x64\Debug\Background removal.exe
